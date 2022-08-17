@@ -1,0 +1,33 @@
+{
+  "productList": [
+    {
+      "employeeName": "SRTJHSRJ FSJSRJ",
+      "employeeEmail": "wael.chakchouk@esprit.tn",
+      "employeeJob": "Brand New",
+      "employeeSalary": 6464,
+      "employeeCIN": "646464",
+      "date": "2022-03-16T23:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "p8List": [
+    {
+      "employeeName": "azdzeza",
+      "employeeEmail": "dazazd",
+      "employeeJob": "Brand New",
+      "employeeSalary": 1200,
+      "employeeCIN": "1561",
+      "date": "2022-03-21T23:00:00.000Z",
+      "id": 3
+    },
+    {
+      "employeeName": "SRTJHSRJ FSJSRJ",
+      "employeeEmail": "wael.chakchouk@esprit.tn",
+      "employeeJob": "Brand New",
+      "employeeSalary": 6464,
+      "employeeCIN": "646464",
+      "date": "2022-03-16T23:00:00.000Z",
+      "id": 4
+    }
+  ]
+}
